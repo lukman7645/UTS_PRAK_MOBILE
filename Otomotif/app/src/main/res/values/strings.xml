@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Otomotif</string>
+    <string name="affirmation1">Lexus NX 300f (2021)</string>
+    <string name="affirmation2">Bentley Bentayga (2021)</string>
+    <string name="affirmation3">Mustang (1969)</string>
+    <string name="affirmation4">Bmw S Class (2021)</string>
+    <string name="affirmation5">Bmw AMG GT 63 (2021)</string>
+    <string name="affirmation6">Mercedes Benz G Class (2021)</string>
+    <string name="affirmation7">BMW S Class (2021) </string>
+    <string name="affirmation8">Pajero Sport (2021) </string>
+    <string name="affirmation9">Range Rover Vouge (2021)</string>
+    <string name="affirmation10">Range Rover Evouqe (2021)</string>
+</resources>
